@@ -1,0 +1,47 @@
+<h3>Background</h3>
+Dissections have been among the best tools in anatomy education. However, they are expensive and have limited use when trying to reach deep, small, detailed structures. One such area is the Pterygopalatine Fossa, an important super-junction of nerves and blood vessels in the skull. Where dissections fail, the burden is placed upon students to visualize these dynamic, three-dimensional objects from static, two-dimensional photos. As such, there is a clear need for advancements in this field of education.
+<h3>Objective</h3>
+To create an interactive educational virtual reality tool to aid anatomy education with regards to the Pterygopalatine Fossa. Stretch goals include expanding to other similarly small, complex, and important areas in the body.
+<h3>Why Virtual Reality?</h3>
+Our experience of the world is in three dimensions. Thus to learn about real world objects, a three-dimensional space is a potent asset. Dissections use the real world as said space, but are limited by real world constraints. Technology can bypass real world constraints through projecting three dimensional models onto two dimensional interfaces, such as computer monitors. But these are limited by the disparity in dimensions and difficulty in mapping controls. In Fossa Finder, the Pterygopalatine Fossa is a defined space that the user can enter and explore -- an experience made possible only with virtual reality.
+
+[column]
+<img class="aligncenter size-full wp-image-1540" src="http://eml.sites.olt.ubc.ca/files/2020/07/image-7-940x590.png" alt="" width="500" />
+
+[/column][column]
+<img class="aligncenter size-full wp-image-1539" src="http://eml.sites.olt.ubc.ca/files/2020/07/image-6-940x631.png" alt="" width="476" />
+
+[/column]
+<h3>The Team</h3>
+<strong>Principal Investigator</strong>
+<ul>
+ 	<li>Pawel Kindler, PhD, Gross Anatomy Course Director</li>
+</ul>
+<strong>Staff</strong>
+<ul>
+ 	<li>Dante Cerron (Project Lead, FF Team)</li>
+</ul>
+<strong>Students</strong>
+<ul>
+ 	<li>Julia Chu (Project Lead, Streaming Team)</li>
+ 	<li>Frances Sin (Developer)</li>
+ 	<li>Yousra Alfarra (Designer)</li>
+</ul>
+<strong>Student Volunteers</strong>
+<ul>
+ 	<li>Hala Murad (Designer)</li>
+ 	<li>Pedro Leite (Developer)</li>
+ 	<li>Rosaline Baek (Designer)</li>
+ 	<li>Sayem Nazmuz (Developer)</li>
+</ul>
+<strong>Past Student Team Members</strong>
+<ul>
+ 	<li>Hank Chen (Developer)</li>
+ 	<li>Karen Zhou (Developer)</li>
+ 	<li>W Chung (3D Modeler)</li>
+ 	<li>Sean Jeon (Scrum Master)</li>
+</ul>
+<strong>Industry Developer</strong>
+<ul>
+ 	<li>Peter Kao, CEO, Metanaut (May 2018 - Present)</li>
+</ul>
